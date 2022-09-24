@@ -144,7 +144,7 @@ button {
 }
 .line {
   background-color: #ececec;
-  width: 1200px;
+  width: 100%;
   border: 1px solid #ececec;
 }
 /* < -------------------------------    HAT    ------------------- > */
